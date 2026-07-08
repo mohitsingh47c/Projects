@@ -1,3 +1,3 @@
 # Projects
-This Repository Contains Projects Regarding AI
+This Repository Contains Projects Regarding AI.
 Author - Mohit Singh
